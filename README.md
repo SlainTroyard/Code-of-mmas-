@@ -13,7 +13,7 @@ MMAS is implemented in C++ and complied by g++ with '-O3' option.
 
 eg: g++ mmas.cpp -O3 -o mmas
 
-Usage\<br>
+Usage
 
 MMAS is a local search and break ties randomly which needs a random seed, so the command to run MMAS is: ./mmas instance_name k_value random_seed_value time_limit
 
