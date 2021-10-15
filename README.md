@@ -9,9 +9,8 @@ The input format
 The input instance is asked to be in ascii format
 
 
-See the data folder for detailed examples
+See the data folder for detailed examples.
 
-.
 
 Compile
 
