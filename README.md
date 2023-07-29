@@ -29,7 +29,7 @@ MMAS is a local search and break ties randomly which needs a random seed, so the
 
 For example:  
 ```
-./mmass scp41.txt 34 44 100
+./mmas scp41.txt 34 44 100
 ```
 
 `scp41.txt` is the name of instance and the random seed is set to 44. The algorithm will run for 100s.  
